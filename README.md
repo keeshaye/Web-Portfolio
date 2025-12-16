@@ -4,7 +4,7 @@
 
 Développement d’un portfolio web entièrement responsive, permettant de présenter un profil personnel, des projets réalisés, des compétences techniques ainsi que des moyens de contact. Le site est conçu pour offrir une expérience fluide sur ordinateur, tablette et smartphone.
 
-🧱 Fonctionnalités principales
+🧱 Fonctionnalités principales :
 
 🧭 Navigation
 
